@@ -13,12 +13,11 @@ This project demonstrates integration of AI-based text processing with a Flask b
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend:** Python, Flask
 - **NLP Processing:** NLTK
 - **Frontend:** HTML, CSS
-- **Deployment:** (Add if deployed – e.g., Vercel, Render)
 
 ### Prerequisites
 
@@ -36,13 +35,14 @@ This is an example of how to list things you need to use the software and how to
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/yourusername/ai-project.git
+cd project
 ```
-### 3️⃣ Run the Application
+### Run the Application
 
 ```sh
 python app.py
