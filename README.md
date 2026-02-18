@@ -5,10 +5,11 @@ Record your meeting and get an AI-generated summary with action items
 
 ---
 
-## Getting Started
+## Overview
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Meeting Minutes Generator simplifies post-meeting documentation by automatically generating structured summaries and extracting actionable tasks from recorded discussions.
+
+This project demonstrates integration of AI-based text processing with a Flask backend and clean web interface.
 
 ---
 
@@ -38,19 +39,18 @@ This is an example of how to list things you need to use the software and how to
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-
-```bash
+```sh
 git clone https://github.com/yourusername/ai-project.git
-
+```
 ### 3️⃣ Run the Application
 
-```bash
+```sh
 python app.py
 ```
 
 Open your browser at:
 
-```
+```sh
 http://localhost:5000
 ```
 
